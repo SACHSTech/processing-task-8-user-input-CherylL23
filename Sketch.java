@@ -74,7 +74,6 @@ public class Sketch extends PApplet {
         fill(20, 20, 20);
         rect(mouseX, mouseY, 100, 20);
       }
-
     }
 
     //types out a message
